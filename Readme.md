@@ -15,12 +15,11 @@ A simple script to monitor your Linux server and send email reports via Gmail.
 
 1. Make installer executable:
 
-```bash
-chmod +x ~/full_setup_server_monitor_msmtp_cron.sh
+chmod +x ~/full_setup_server_monitor_msmtp.sh
 
 2. Run the installer:
 
-~/full_setup_server_monitor_msmtp_cron.sh
+~/full_setup_server_monitor_msmtp.sh
 
 
 Enter your Gmail and App Password when prompted.
